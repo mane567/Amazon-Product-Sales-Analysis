@@ -15,7 +15,7 @@ The dashboard helps stakeholders track business performance and make data-driven
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](powerbi dashboard.png)
+![Dashboard Preview]("C:\Users\nikit\OneDrive\Pictures\Screenshots\powerbi dashboard.png")
 
 ---
 
