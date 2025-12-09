@@ -15,8 +15,7 @@ The dashboard helps stakeholders track business performance and make data-driven
 ---
 
 ## 🖼 Dashboard Preview
-## 📊 Dashboard Preview
-![Amazon Sales Dashboard](powerbidashboard.png)
+![Amazon Sales Dashboard](https://github.com/mane567/Amazon-Product-Sales-Analysis/blob/main/dashboard.png)
 
 
 ---
